@@ -1,5 +1,5 @@
 # FEM_Acustic_vibrations_of_material_layer
-Solution of the acoustic vibrations of the material layer in Matlab using FEM. 
+Solution of the acoustic vibrations of the material layer in R using FEM. 
 This project was done on Differential and difference equations (Równania różniczkowe i różnicowe) course at AGH. The project had been written in R.
 
 ## The task description (in Polish)
